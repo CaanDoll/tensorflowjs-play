@@ -1,0 +1,27 @@
+{
+  "name": "tensorflowjs-play",
+  "version": "1.0.0",
+  "description": "a tensorflowjs play",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaanDoll/tensorflowjs-play.git"
+  },
+  "keywords": [
+    "tensorflow"
+  ],
+  "author": "caan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CaanDoll/tensorflowjs-play/issues"
+  },
+  "homepage": "https://github.com/CaanDoll/tensorflowjs-play#readme",
+  "devDependencies": {
+    "@tensorflow/tfjs": "^0.10.3",
+    "parcel-bundler": "^1.7.1"
+  }
+}
